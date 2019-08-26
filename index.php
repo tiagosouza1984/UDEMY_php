@@ -1,5 +1,5 @@
 <?php
-echo "<strong>Teste código php<strong><br>
+echo "<strong>Teste código php alterado<strong><br>
 formulário <form> 
 insira o texto aqui<br><textarea></textarea>
 </form>"
